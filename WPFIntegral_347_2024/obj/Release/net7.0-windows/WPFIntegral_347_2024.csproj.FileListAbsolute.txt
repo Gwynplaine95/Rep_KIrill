@@ -1,0 +1,40 @@
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.exe
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.deps.json
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.runtimeconfig.json
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.dll
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.pdb
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\App.g.cs
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024_MarkupCompile.cache
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024_MarkupCompile.lref
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\MainWindow.baml
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.g.resources
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.AssemblyInfoInputs.cache
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.AssemblyInfo.cs
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.csproj.CoreCompileInputs.cache
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.dll
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\refint\WPFIntegral_347_2024.dll
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.pdb
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.genruntimeconfig.cache
+C:\Projects\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\ref\WPFIntegral_347_2024.dll
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.exe
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.deps.json
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.runtimeconfig.json
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.dll
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\bin\Release\net7.0-windows\WPFIntegral_347_2024.pdb
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\App.g.cs
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024_MarkupCompile.cache
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024_MarkupCompile.lref
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\MainWindow.baml
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.g.resources
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.AssemblyInfoInputs.cache
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.AssemblyInfo.cs
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.csproj.CoreCompileInputs.cache
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.dll
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\refint\WPFIntegral_347_2024.dll
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.pdb
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\WPFIntegral_347_2024.genruntimeconfig.cache
+C:\Users\vpran\OneDrive\Документы\Энерго\Вычислительные системы\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Release\net7.0-windows\ref\WPFIntegral_347_2024.dll
